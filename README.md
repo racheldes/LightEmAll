@@ -3,9 +3,9 @@
 Coded in Java
 
 How to Play:
-Click on the tiles to rotate
-Use arrow keys to move the powerstation along a wired connection
-Light up the entire board
+Click on the tiles to rotate them.
+Use arrow keys to move the powerstation along a wired connection.
+The goal is to light up the entire board.
 
 Purpose:
 Implemented ArrayLists and for loops to iterate through grid elements, enabling the manipulation of tiles and efficient game board operations.
